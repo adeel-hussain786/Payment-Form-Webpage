@@ -1,7 +1,4 @@
-Including the screenshot near the beginning of the README can give users a quick visual reference of what the project looks like, which can be more engaging. Here's an updated version with the screenshot section near the top:
-
 ---
-
 # Payment Form
 
 This is a simple HTML and CSS-based payment form webpage. The form collects user information and payment details.
