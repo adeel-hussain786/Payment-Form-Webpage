@@ -1,10 +1,21 @@
-# Payment Form Webpage
+Including the screenshot near the beginning of the README can give users a quick visual reference of what the project looks like, which can be more engaging. Here's an updated version with the screenshot section near the top:
+
+---
+
+# Payment Form
 
 This is a simple HTML and CSS-based payment form webpage. The form collects user information and payment details.
 
+## Screenshot
+
+![Payment Form ScreenShot](https://github.com/user-attachments/assets/5bbb5bb8-1679-4798-bd47-cf969af7b5b0)
+![Payment Form Screenshot](screenshot.png)
+![Payment Form ScreenShot2](https://github.com/user-attachments/assets/97d6ef58-d77e-4c0e-a990-535b87ae71af)
+
+
 ## Features
 
-- **User Information Section:** 
+- **User Information Section:**
   - Name
   - Gender
   - Address
@@ -26,7 +37,6 @@ To use this payment form, simply open the `index.html` file in your browser. Fil
 - `index.html`: The main HTML file containing the structure of the form.
 - `style.css`: The CSS file for styling the form.
 
-
 ## Contributing
 
 If you'd like to contribute to this project, please fork the repository and use a feature branch. Pull requests are welcome.
@@ -34,3 +44,5 @@ If you'd like to contribute to this project, please fork the repository and use 
 ## License
 
 This project is open-source and available under the [MIT License](LICENSE).
+
+---
