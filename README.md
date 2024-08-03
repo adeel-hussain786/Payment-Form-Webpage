@@ -1,9 +1,4 @@
-# Payment-Form-Webpage
-Here's a sample README file for your payment form webpage:
-
----
-
-# Payment Form
+# Payment Form Webpage
 
 This is a simple HTML and CSS-based payment form webpage. The form collects user information and payment details.
 
